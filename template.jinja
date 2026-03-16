@@ -7,4 +7,4 @@ Human: {{ message['content'] }}
 Assistant: {{ message['content'] }}
 {% endif %}
 {% endfor %}
-Assistant:
+{% if add_generation_prompt %}Assistant:{% endif %}
