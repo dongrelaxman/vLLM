@@ -18,6 +18,7 @@ vLLM is the **de facto serving solution** for open-source AI, providing unmatche
 ### 🧠 vLLM Mind Map
 
 ```mermaid
+%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#ffcc00'}}}%%
 mindmap
   root((vLLM))
 
