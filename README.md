@@ -23,13 +23,13 @@ mindmap
 
     Performance
     
-      (PagedAttention)
+      [PagedAttention]
 
-      (High Throughput)
+      [High Throughput]
 
-      (Peak GPU Utilization)
+      [Peak GPU Utilization]
 
-      (Continuous Batching)
+      [Continuous Batching]
       
     Cost Efficiency
 
@@ -62,7 +62,7 @@ mindmap
       (Flexible Configuration)
       
     Use Cases
-    
+
       (Production Deployment)
       
       (Research & Development)
