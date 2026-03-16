@@ -17,7 +17,7 @@ vLLM is the **de facto serving solution** for open-source AI, providing unmatche
 
 ### 🧠 vLLM Mind Map
 
-<!-- ```mermaid
+```mermaid
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#ffcc00'}}}%%
 mindmap
   root((vLLM))
@@ -71,46 +71,8 @@ mindmap
       (API Services)
       
       (Real-time Inference)
-``` -->
-mindmap
-  root((vLLM)):::root
-    Performance:::perf
-      (PagedAttention):::perf
-      (High Throughput):::perf
-      (Peak GPU Utilization):::perf
-      (Continuous Batching):::perf
-      
-    Cost Efficiency:::cost
-      (2-4x Cost Reduction):::cost
-      (Resource Optimization):::cost
-      (Energy Efficient):::cost
-      (Better ROI):::cost
+```
 
-    Compatibility:::comp
-      (OpenAI API Compatible):::comp
-      (All Model Types):::comp
-      (Multi-Hardware Support):::comp
-      (Cross-Platform):::comp
-
-    Features:::feat
-      (Easy Setup):::feat
-      (Serving Engine):::feat
-      (Advanced Scheduling):::feat
-      (Flexible Configuration):::feat
-      
-    Use Cases:::use
-      (Production Deployment):::use
-      (Research & Development):::use
-      (API Services):::use
-      (Real-time Inference):::use
-
-  %% Custom Color Definitions
-  classDef root fill:#1e3a8a,stroke:#000,stroke-width:2px,color:#fff
-  classDef perf fill:#ffedd5,stroke:#ea580c,stroke-width:2px,color:#000
-  classDef cost fill:#dcfce7,stroke:#16a34a,stroke-width:2px,color:#000
-  classDef comp fill:#f3e8ff,stroke:#9333ea,stroke-width:2px,color:#000
-  classDef feat fill:#e0f2fe,stroke:#0284c7,stroke-width:2px,color:#000
-  classDef use fill:#fef9c3,stroke:#ca8a04,stroke-width:2px,color:#000
 
 ### 📊 Performance Comparison
 
