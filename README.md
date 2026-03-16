@@ -22,28 +22,47 @@ mindmap
   root((vLLM))
     Performance
       ⚡ PagedAttention
+
       📈 High Throughput
+
       🎯 Peak GPU Utilization
+
       🔄 Continuous Batching
+
     Cost Efficiency
       💰 2-4x Cost Reduction
+
       🏃‍♂️ Resource Optimization
+
       ⚡ Energy Efficient
+
       📊 Better ROI
+
     Compatibility
       🔌 OpenAI API Compatible
+
       🤖 All Model Types
+
       💻 Multi-Hardware Support
+
       🌍 Cross-Platform
+
     Features
       🛠️ Easy Setup
+
       📡 Serving Engine
+
       🎛️ Advanced Scheduling
+
       🔧 Flexible Configuration
+
     Use Cases
       🏢 Production Deployment
+
       🔬 Research & Development
+
       📱 API Services
+      
       🎯 Real-time Inference
 ```
 
