@@ -21,49 +21,53 @@ vLLM is the **de facto serving solution** for open-source AI, providing unmatche
 mindmap
   root((vLLM))
     Performance
-      ⚡ PagedAttention
+    
+      (PagedAttention)
 
-      📈 High Throughput
+      (High Throughput)
 
-      🎯 Peak GPU Utilization
+      (Peak GPU Utilization)
 
-      🔄 Continuous Batching
-
+      (Continuous Batching)
+      
     Cost Efficiency
-      💰 2-4x Cost Reduction
 
-      🏃‍♂️ Resource Optimization
+      (2-4x Cost Reduction)
 
-      ⚡ Energy Efficient
+      (Resource Optimization)
 
-      📊 Better ROI
+      (Energy Efficient)
+
+      (Better ROI)
 
     Compatibility
-      🔌 OpenAI API Compatible
 
-      🤖 All Model Types
+      (OpenAI API Compatible)
 
-      💻 Multi-Hardware Support
+      (All Model Types)
 
-      🌍 Cross-Platform
+      (Multi-Hardware Support)
+
+      (Cross-Platform)
 
     Features
-      🛠️ Easy Setup
 
-      📡 Serving Engine
+      (Easy Setup)
 
-      🎛️ Advanced Scheduling
+      (Serving Engine)
 
-      🔧 Flexible Configuration
+      (Advanced Scheduling)
 
-    Use Cases
-      🏢 Production Deployment
-
-      🔬 Research & Development
-
-      📱 API Services
+      (Flexible Configuration)
       
-      🎯 Real-time Inference
+    Use Cases
+      (Production Deployment)
+      
+      (Research & Development)
+      
+      (API Services)
+      
+      (Real-time Inference)
 ```
 
 ### 📊 Performance Comparison
