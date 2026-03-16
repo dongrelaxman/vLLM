@@ -20,6 +20,7 @@ vLLM is the **de facto serving solution** for open-source AI, providing unmatche
 ```mermaid
 mindmap
   root((vLLM))
+
     Performance
     
       (PagedAttention)
@@ -61,6 +62,7 @@ mindmap
       (Flexible Configuration)
       
     Use Cases
+    
       (Production Deployment)
       
       (Research & Development)
